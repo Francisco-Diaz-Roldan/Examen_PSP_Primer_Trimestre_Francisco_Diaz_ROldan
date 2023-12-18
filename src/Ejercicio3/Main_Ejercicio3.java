@@ -23,6 +23,5 @@ public class Main_Ejercicio3 {
          System.out.println();
          System.out.println("Array de números pares ordenados de menor a mayor:");
          Nodo.mostrarListaPares(nodo.getLista());
-        }
     }
 }
