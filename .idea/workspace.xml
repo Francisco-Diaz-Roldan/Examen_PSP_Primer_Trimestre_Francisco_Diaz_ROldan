@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66ad9443-0866-44db-8789-05c7ee931287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examen_PSP_Primer_Trimestre_Francisco_Diaz_ROldan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Conejo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Main_Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Tortuga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio3/Nodo.java" afterDir="false" />
+    <list default="true" id="66ad9443-0866-44db-8789-05c7ee931287" name="Changes" comment="Ejercicio1 completado. &#10;Ejercicio3 completado.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/Main_Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3/Main_Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -54,6 +47,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ejercicio3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,12 +60,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702892915961</updated>
-      <workItem from="1702892917044" duration="1290000" />
+      <workItem from="1702892917044" duration="1638000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio1 completado. &#10;Ejercicio3 en proceso.">
+      <option name="closed" value="true" />
+      <created>1702894292030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702894292030</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ejercicio1 completado. &#10;Ejercicio3 en proceso.">
+      <option name="closed" value="true" />
+      <created>1702894367598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702894367598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicio1 completado. &#10;Ejercicio3 completado.">
+      <option name="closed" value="true" />
+      <created>1702894403676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702894403676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio1 completado. &#10;Ejercicio3 completado.">
+      <option name="closed" value="true" />
+      <created>1702894418388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702894418388</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio1 completado. &#10;Ejercicio3 en proceso." />
+    <MESSAGE value="Ejercicio1 completado. &#10;Ejercicio3 completado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio1 completado. &#10;Ejercicio3 completado." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
